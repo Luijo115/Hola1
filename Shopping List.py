@@ -1,7 +1,7 @@
 import flet as ft
 
 def main(page: ft.Page):
-    page.title = "Shopping List"
+    page.title = "Shopping List" 
     lista = []
     
     def agregar_item(e):
